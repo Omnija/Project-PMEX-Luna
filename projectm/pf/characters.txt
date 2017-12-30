@@ -1,2 +1,6 @@
 Metal Sonic
 ID-110 (1101) HexID-6E
+Waluigi
+ID-112 (1121) HexID-70
+Geno
+ID-114 (1121) HexID-72
