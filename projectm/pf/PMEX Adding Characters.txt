@@ -1,0 +1,73 @@
+Character Selection (brawlBox)
+pf/menu2/sc_selectcharacter.pac
+
+**Character Portraits**
+char_bust_tex_lz77
+-Create MiscData by importing image (MenSelchrFaceB.xxxx)
+-Change Fileindex to CharID
+-Set Compression ExrtendedLZ77
+
+**Character CSS Icons and NmS**
+MiscData[70]
+-import texture
+MenSelchrChrFace.xxx + MenSelchrChrNmS.xxx
+-Set i4 NmS
+-Set CMBR Face
+
+**CSP names and .pat0 entries**
+MiscData [30]
+-import texture MenSelchrChrNm.xxxx
+-set i4
+
+AnmTextPat{NW4R)
+MenSelchrCname4_TopN__0.pat -> Set Frame Count 10 above
+-Card010 + Card011
+-Add entry MenSelchrChrNm.xxxx
+
+ MenSelchrFaceI_TopN__0.pat -> Set Frame Count 10 above
+ -Face02
+ -Add entry MenSelchrChrFace.xxx
+ -Face06
+ -Add entry MenSelchrChrNmS.xxx
+ 
+ 
+ Info, Stocks & BPs (brawlBox)
+ pf/info2/info.pac
+ 
+ MiscData[30]
+ /AnmTextPat/InfFace_TopN_0 -> Set FrameCount 10 above
+ - Add entry MenSelchrChrNmS.xxxx
+  /AnmTextPat/InfStockface_TopN__0 -> Set FrameCount 10 above
+  -Add entry InfStc.xxx (icons)
+  -Set Frameindex to xxx and Palette to InfSTC.xxxx
+ 
+ Textures
+ -Import InfStc.xxx
+ -Set CI4
+ 
+**Stage Result + More** (brawlBox)
+ pf/stage/melee/STGResult.pac
+ 
+MiscData[120]
+-Import InfStc.xxx
+-Set CI4
+
+MiscData[110]
+-AnmTexPat(NW4R)
+InfStockface_TopN__0.pat0 -> Set FrameCount 10 above
+-Add entries
+-FrameIndex xxxx
+-Texture/Palette InfStc.xxxx
+
+**Modules**
+/pf/modules
+-Change Hex ID Section 8
+
+**Result Screen Portraits** (brawlBox)
+pf/menu/common/char_bust_tex
+-Change .brres to ID
+-Edit Internal Textures to match ID
+
+/pf/info/portite
+-Change .brres to ID
+-Edit Internal Textures to match ID
