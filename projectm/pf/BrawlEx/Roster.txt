@@ -1,0 +1,43 @@
+15 - Wario
+00 - Mario
+09 - Luigi
+0D - Peach
+0C - Bowser
+05 - Yoshi
+01 - Donkey Kong
+1A - Diddy Kong
+0A - Captain Falcon
+07 - Fox
+13 - Falco
+25 - Wolf
+0E - Zelda
+0F - Sheik
+02 - Link
+24 - Toon Link
+14 - Ganondorf
+17 - Pit
+2E - Mewtwo
+20 - Lucario
+08 - Pikachu
+23 - Jigglypuff
+1D - Squirtle
+1E - Ivysaur
+1C - Charizard
+19 - Lucas
+0B - Ness
+03 - Samus
+04 - Zero Suit Samus
+43 - Ridley
+06 - Kirby
+16 - Meta Knight
+1F - King Dedede
+21 - Ike
+11 - Marth
+2D - Roy
+10 - Ice Climbers
+22 - R.O.B.
+12 - Mr. Game & Watch
+18 - Olimar
+26 - Snake
+27 - Sonic
+29 - Random

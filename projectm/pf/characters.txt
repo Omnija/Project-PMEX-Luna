@@ -1,5 +1,7 @@
 Metal Sonic
 ID-110 (1101) HexID-6E
+Toon Zelda
+ID-111 (1111) HexID-6f
 Waluigi
 ID-112 (1121) HexID-70 [2A]
 Geno
