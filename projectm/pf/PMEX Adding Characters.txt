@@ -37,7 +37,7 @@ MenSelchrCname4_TopN__0.pat -> Set Frame Count 10 above
  MiscData[30]
  /AnmTextPat/InfFace_TopN_0 -> Set FrameCount 10 above
  - Add entry MenSelchrChrNmS.xxxx
-  /AnmTextPat/InfStockface_TopN__0 -> Set FrameCount 10 above
+  /AnmTextPat/InfStockface_TopN__0 -> Set FrameCount 1 above
   -Add entry InfStc.xxx (icons)
   -Set Frameindex to xxx and Palette to InfSTC.xxxx
  
@@ -57,7 +57,7 @@ MiscData[110]
 InfStockface_TopN__0.pat0 -> Set FrameCount 10 above
 -Add entries
 -FrameIndex xxxx
--Texture/Palette InfStc.xxxx
+-Textures InfStc.xxxx
 
 **Modules**
 /pf/modules

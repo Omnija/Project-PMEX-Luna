@@ -3,6 +3,10 @@ ID-110 (1101) HexID-6E
 Waluigi
 ID-112 (1121) HexID-70 [2A]
 Geno
-ID-114 (1121) HexID-72
+ID-114 (1141) HexID-72
 Lucina
-ID-116 (1121) HexID-74
+ID-116 (1161) HexID-74
+Knuckles
+ID-118 (1181) HexID-76
+Little Mac
+ID-120 (1201) HexID-78
