@@ -4,8 +4,12 @@ Toon Zelda
 ID-111 (1111) HexID-6f
 Waluigi
 ID-112 (1121) HexID-70 [2A]
+Daisy
+ID-113 (1131) HexID-71
 Geno
 ID-114 (1141) HexID-72
+Bowser JR
+ID-115 (1151) HexID-73
 Lucina
 ID-116 (1161) HexID-74
 Knuckles
