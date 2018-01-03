@@ -1,3 +1,11 @@
+Shadow
+ID-99 (991) HexID-63
+Bomberman
+ID-100 (1001) HexID-64
+Young Link
+ID-101 (1011) HexID-65
+Pichu
+ID-102 (1021) HexID-66
 Metal Sonic
 ID-110 (1101) HexID-6E
 Toon Zelda
@@ -12,7 +20,11 @@ Bowser JR
 ID-115 (1151) HexID-73
 Lucina
 ID-116 (1161) HexID-74
+Dixie
+ID-117 (1171) HexID-75
 Knuckles
 ID-118 (1181) HexID-76
+Tails
+ID-119 (1191) HexID-77
 Little Mac
 ID-120 (1201) HexID-78
