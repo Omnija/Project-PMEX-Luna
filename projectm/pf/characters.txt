@@ -6,6 +6,12 @@ Young Link
 ID-101 (1011) HexID-65
 Pichu
 ID-102 (1021) HexID-66
+Gray Fox
+ID-103 (1031) HexID-67
+Lyn
+ID-104 (1041) HexID-68
+Dark Pit
+ID-105 (1051) HexID-69
 Metal Sonic
 ID-110 (1101) HexID-6E
 Toon Zelda

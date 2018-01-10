@@ -1,0 +1,88 @@
+Soundbank IDs
+00000001 - Mario
+00000002 - Link
+00000003 - Pit
+00000004 - Meta Knight
+00000005 - Dedede
+00000006 - Donkey Kong
+00000007 - Samus
+00000008 - Yoshi
+00000009 - Kirby
+0000000A - Fox
+0000000B - Pikachu
+0000000C - Luigi
+0000000D - Captain
+0000000E - Ness
+0000000F - Koopa
+00000010 - Peach
+00000011 - Zelda
+00000012 - Ice Climbers
+00000013 - Marth
+00000014 - GameWatch
+00000015 - Falco
+00000016 - Ganon
+00000017 - Wario
+00000018 - Pikmin
+00000019 - Lucas
+0000001A - Diddy
+0000001B - PokeTrainer
+0000001C - PokeLizardon
+0000001D - PokeZenigame
+0000001E - PokeFushigisou
+0000001F - Lucario
+00000020 - Ike
+00000021 - R.O.B.
+00000022 - Purin
+00000023 - ToonLink
+00000024 - Wolf
+00000025 - Snake
+00000026 - Sonic
+00000027 - select
+00000028 - ZakoFighter
+
+00000116 Kuribo
+00000117 Patapata
+00000118 Hammerbros
+00000119 Killer
+0000011A Dekakuribo
+0000011B GalFire
+0000011C Poppercam
+0000011D Bitan
+0000011E Roada
+0000011F Bombhead
+00000120 Gyraan
+00000121 Bucyulus
+00000122 Tautau
+00000123 Flows
+00000124 Aroaros
+00000125 Botron
+00000126 Jyakeel
+00000127 Ghamgha
+00000128 Pacci
+00000129 Faulong
+0000012A Deathpod
+0000012B Spar
+0000012C Kokkon
+0000012D Jdus
+0000012E Mite
+0000012F Shelly
+00000130 Ngagog
+00000131 Cymal
+00000132 Teckin
+00000133 Cataguard
+00000134 Siralamos
+00000135 Boobas
+00000136 Arman
+00000137 Prim
+00000138 Robo
+00000139 - Bosspackun (or as I like to call, Bosspack-kun)
+0000013A - Rayquaza
+0000013B - Porky
+0000013C - Galleom
+0000013D - Ridley
+0000013E - Duon
+0000013F - Meta Ridley
+00000140 - Taboo
+00000141 - Master Hand
+00000142 - Crazy Hand
+00000143 Falconflyer
