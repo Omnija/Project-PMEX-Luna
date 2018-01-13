@@ -1,3 +1,5 @@
+Ridley
+ID-67 (671) HexID-43
 Shadow
 ID-99 (991) HexID-63
 Bomberman
