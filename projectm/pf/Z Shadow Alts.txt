@@ -3,6 +3,7 @@ Bomberman
 Daisy
 Dark Pit
 Dixie
+Game & Watch
 Geno
 Gray Fox
 Knuckles
