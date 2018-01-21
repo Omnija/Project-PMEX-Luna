@@ -14,10 +14,14 @@ Lyn
 ID-104 (1041) HexID-68
 Dark Pit
 ID-105 (1051) HexID-69
-Mia ( Questionable)
+Louie - adding
 ID-106 (1061) HexID-6A
 Ryu
 ID-107 (1071) HexID-6B
+Ninten - adding
+ID-108 (1081) HexID-6C
+Travis - adding
+ID-109 (1091) HexID-6D
 Metal Sonic
 ID-110 (1101) HexID-6E
 Toon Zelda
