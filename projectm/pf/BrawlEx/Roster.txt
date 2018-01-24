@@ -1,3 +1,4 @@
+::::::::::::::::::::::::::::::: Roster :::::::::::::::::::::::::::::::
 15 - Wario
 00 - Mario
 09 - Luigi
@@ -41,3 +42,51 @@
 26 - Snake
 27 - Sonic
 29 - Random
+
+::::::::::::::::::::::::::::::: Characters :::::::::::::::::::::::::::::::
+Captain Falcon:   captain
+King Dedede:   dedede
+Diddy Kong:   diddy
+Donkey Kong:   donkey
+Falco:      falco
+Fox:      fox
+Mr. Game & Watch:  gamewatch
+Ganondorf:   ganon
+Giga Bowser:   gkoopa
+Ike:      ike
+Kirby:      kirby
+Bowser:      koopa
+Link:      link
+Lucario:   lucario
+Lucas:      lucas
+Luigi:      luigi
+Mario:      mario
+Marth:      marth
+Meta Knight:   metaknight
+Ness:      ness
+Peach:      peach
+Pikachu:   pikachu
+Captain Olimar:   pikmin
+Pit:      pit
+Ivysaur:   pokefushigisou
+Charizard:   pokelizardon
+Pokémon Trainer:poketrainer
+Squirtle:   pokezenigame
+Ice Climbers:   popo
+Jigglypuff:         purin
+R.O.B.:      robot
+Samus:      samus
+Sheik:      sheik
+Snake:      snake
+Sonic:      sonic
+Zero Suit Samus:  szerosuit
+Toon Link:   toonlink
+Wario:      wario
+Warioman:   warioman
+Wolf:      wolf
+Yoshi:      yoshi
+Zelda:      zelda
+Green Alloy:   zakoball
+Yellow Alloy:   zakochild
+Blue Alloy:   zakogirl
+Red Alloy:    zakoboy

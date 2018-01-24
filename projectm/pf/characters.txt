@@ -1,5 +1,7 @@
 Ridley
 ID-67 (671) HexID-43
+Robin
+ID-68 (681) HexID-44
 Shadow
 ID-99 (991) HexID-63
 Bomberman
@@ -14,13 +16,13 @@ Lyn
 ID-104 (1041) HexID-68
 Dark Pit
 ID-105 (1051) HexID-69
-Louie - adding
+Louie
 ID-106 (1061) HexID-6A
 Ryu
 ID-107 (1071) HexID-6B
-Ninten - adding
+Ninten
 ID-108 (1081) HexID-6C
-Travis - adding
+Travis
 ID-109 (1091) HexID-6D
 Metal Sonic
 ID-110 (1101) HexID-6E

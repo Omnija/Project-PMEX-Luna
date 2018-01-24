@@ -1,17 +1,26 @@
 :::::::::::::::::::::::::::::::: Missing Hold Z Dark ::::::::::::::::::::::::::::::::
 Bomberman
 Daisy
-Dark Pit
+Dark Pit - Done
+-Shaders (1,2,3,4,5,6)
 Dixie
 Game & Watch
 Geno
 Gray Fox
-Knuckles
+Knuckles - Done
+-Shaders (0,1,2,5,6)
 Koopa JR
+Louie
 Little Mac
 Lyn
+Pichu
+Ninten
+Robin
 Ryu
 Shadow
-Tails
+-Shaders (0,1,4,5,6,7,8,9)
+Tails - Done
+-Shaders (0,1)
 Toon Zelda
-
+Travis - Done
+-Shaders (0,1)
