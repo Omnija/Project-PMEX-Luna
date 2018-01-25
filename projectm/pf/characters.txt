@@ -1,7 +1,21 @@
+:::::::::::::::::::::: Adding ::::::::::::::::::::
+--PMEX
+Mia
+Chrom
+Shulk
+
+:::::::::::::::::::::: Added ::::::::::::::::::::
 Ridley
 ID-67 (671) HexID-43
-Robin
+Robin (changed ID)
 ID-68 (681) HexID-44
+ID-95 (951) HexID-5f
+Shulk
+ID-96 (961) HexID-60
+Chrom
+ID-97 (971) HexID-61
+Mia
+ID-98 (981) HexID-62
 Shadow
 ID-99 (991) HexID-63
 Bomberman

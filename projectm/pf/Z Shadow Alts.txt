@@ -1,5 +1,6 @@
 :::::::::::::::::::::::::::::::: Missing Hold Z Dark ::::::::::::::::::::::::::::::::
 Bomberman
+Chrom
 Daisy
 Dark Pit - Done
 -Shaders (1,2,3,4,5,6)
@@ -13,14 +14,30 @@ Koopa JR
 Louie
 Little Mac
 Lyn
-Pichu
 Ninten
+Mia
 Robin
 Ryu
 Shadow
 -Shaders (0,1,4,5,6,7,8,9)
+Shulk
 Tails - Done
 -Shaders (0,1)
 Toon Zelda
 Travis - Done
 -Shaders (0,1)
+
+:::::::::::::::::::::::::::::::: Incorrect ::::::::::::::::::::::::::::::::
+Pichu
+Zero Suit Samus
+Ridley
+Snake
+
+:::::::::::::::::::::::::::::::: Not Complete Hold Z Dark ::::::::::::::::::::::::::::::::
+Wario
+Wolf
+Jigglypuff
+Mewtwo
+Roy
+Metal Sonic
+Waluigi
