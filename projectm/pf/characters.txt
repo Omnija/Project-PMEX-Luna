@@ -34,9 +34,11 @@ Louie
 ID-106 (1061) HexID-6A
 Ryu
 ID-107 (1071) HexID-6B
-Ninten
+Ninten -> Switched Cloud
 ID-108 (1081) HexID-6C
-Travis
+Travis -> Switched LT.Falcon Sm4sh ZSS) 
+(Missing Recolours,icons,bp and csp) 
+(Completed Stock)
 ID-109 (1091) HexID-6D
 Metal Sonic
 ID-110 (1101) HexID-6E
