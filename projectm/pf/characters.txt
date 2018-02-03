@@ -1,8 +1,35 @@
-:::::::::::::::::::::: Adding ::::::::::::::::::::
---PMEX
-Mia
-Chrom
-Shulk
+::::::::::::::::::::: Costumes Replaced ::::::::::::::::::
+(Smash 3 + C + Some Non)
+Mario
+Luigi
+Peach
+Daisy (NOT)
+Yoshi
+Bowser
+BowserJR (LTS) -  Needs CSP + BP Redone)
+Waluigi
+Wario
+
+Donkey Kong
+Diddy
+
+Link
+Toon Link
+Zelda
+Toon Zelda
+Shiek
+Ganon
+
+Sonic
+Shadow
+
+Fox
+Wolf
+Falco
+
+Captain Falcon
+
+Cloud
 
 :::::::::::::::::::::: Added ::::::::::::::::::::
 Ridley
@@ -36,7 +63,7 @@ Ryu
 ID-107 (1071) HexID-6B
 Ninten -> Switched Cloud
 ID-108 (1081) HexID-6C
-Travis -> Switched LT.Falcon Sm4sh ZSS) 
+Travis -> Switched LT.Falcon (Sm4sh ZSS) 
 (Missing Recolours,icons,bp and csp) 
 (Completed Stock)
 ID-109 (1091) HexID-6D
