@@ -1,35 +1,51 @@
 ::::::::::::::::::::: Costumes Replaced ::::::::::::::::::
+(Extending All Characters to have 9 or + Costumes)
 (Smash 3 + C + Some Non)
-Mario
-Luigi
-Peach
-Daisy (NOT)
-Yoshi
-Bowser
-BowserJR (LTS) -  Needs CSP + BP Redone)
-Waluigi
-Wario
+Mario -11
+Luigi -10
+Peach -9
+Daisy\Rosalina -9 (NOT) +(Didn't have enough costumes alone)
+Yoshi -10
+Bowser -9
+BowserJR -6 (LTS) -  Needs CSP + BP Redone)
+Waluigi -9 (NOT)
+Wario -11
 
-Donkey Kong
-Diddy
+Donkey Kong -9
+Diddy Kong - 9
+Dixie Kong -4 (NOT)
 
-Link
-Toon Link
-Zelda
-Toon Zelda
-Shiek
-Ganon
+Link -10
+Toon Link -9
+Young Link -9 (NOT) -> Needs Touching Up
+Zelda -9
+Toon Zelda -9
+Shiek -9
+Ganon -9
+Geno -9 (NOT)
 
-Sonic
-Shadow
+Pikachu -9
+Mewtwo -9
+Squirtle -9 (3x TMNT missing CSP + BP And Lacking Green Team)
+Jigglypuff -9
+Charizard -9
+Lucario -9
+Pichu -9 (NOT)
 
-Fox
-Wolf
-Falco
+Sonic -9
+Shadow -9
+Knuckles -9 (NOT)
+Metal Sonic -9 (NOT)
 
-Captain Falcon
+Fox -10
+Wolf -9
+Falco -9
 
-Cloud
+Captain Falcon -9
+
+Cloud -9
+
+Samus - 9
 
 :::::::::::::::::::::: Added ::::::::::::::::::::
 Ridley
