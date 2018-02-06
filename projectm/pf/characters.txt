@@ -8,7 +8,7 @@ Daisy\Rosalina -9 (NOT) +(Didn't have enough costumes alone)
 Yoshi -10
 Bowser -9
 BowserJR -6 (LTS) -  Needs CSP + BP Redone)
-Waluigi -9 (NOT)
+Waluigi -9
 Wario -11
 
 Donkey Kong -9
@@ -17,16 +17,16 @@ Dixie Kong -4 (NOT)
 
 Link -10
 Toon Link -9
-Young Link -9 (NOT) -> Needs Touching Up
+Young Link -9 (NOT) (Needs Touching Up + Recolours)
 Zelda -9
 Toon Zelda -9
 Shiek -9
 Ganon -9
-Geno -9 (NOT)
+Geno -9 (NOT) (Lacking Recolours)
 
 Pikachu -9
 Mewtwo -9
-Squirtle -9 (3x TMNT missing CSP + BP And Lacking Green Team)
+Squirtle -9 ((NOT)3x TMNT missing CSP + BP And Lacking Green Team)
 Jigglypuff -9
 Charizard -9
 Lucario -9
@@ -41,11 +41,35 @@ Fox -10
 Wolf -9
 Falco -9
 
+Marth -9
+Roy -9
+Ike -9
+Mia -9 (NOT)
+
+Pit -9
+Dark Pit -9 (Needs Dark Pit ALTS- BP + CSP + Textures)
+
+Dedede -9
+Meta Knight -9
+
 Captain Falcon -9
 
 Cloud -9
 
+Snake -9
+
+Ness -9 (cps + bp costume 4)
+Lucas -9
+
+Ice Climbers -9 (Repair CSP + BP Costume 8)
+Rob - 9 
+Pikmin - 9
+Louie -9 (NOT)
+Ryu -9 (NOT) (Needs Alts - BP + CSP + Textures)
+Mia -9 (NOT)
+
 Samus - 9
+ZSuitSamus -9
 
 :::::::::::::::::::::: Added ::::::::::::::::::::
 Ridley
@@ -71,17 +95,16 @@ Gray Fox
 ID-103 (1031) HexID-67
 Lyn
 ID-104 (1041) HexID-68
-Dark Pit
+Dark Pit (New PSA Lilith)
 ID-105 (1051) HexID-69
 Louie
 ID-106 (1061) HexID-6A
 Ryu
 ID-107 (1071) HexID-6B
-Ninten -> Switched Cloud
+Cloud
 ID-108 (1081) HexID-6C
-Travis -> Switched LT.Falcon (Sm4sh ZSS) 
-(Missing Recolours,icons,bp and csp) 
-(Completed Stock)
+LT.Falcon (Sm4sh ZSS) 
+(Missing Recolours,icons,bp and csp)
 ID-109 (1091) HexID-6D
 Metal Sonic
 ID-110 (1101) HexID-6E
