@@ -1,0 +1,54 @@
+Decided to make a changelog should of made one sooner
+
+:::::::: Current :::::::: 
+-More Custom icons
+-More Coloured Costume to extend to 9 slot
+
+-Removed Clone SFX (Found it hard to play with mix matched voices)
+-Replaced Cloned Announcer Calls (No more Random name calls)
+=Looking into removing Wiimote Announcer SFX
+=Looking into removing Winner Calls for clones
+
+-Fixed Gray Fox result crash 
+-Fixed Gray Fox movements are a lot smoother
+-Fixed Character Marks not being proper
+-Fixed Bowser mark not being setup properly
+
+-Added Geno costume replacements for some
+-Added Marks for Final Fantasy, Punch Out, Street Fighter, Bomberman and Xenoblade (bomberman missing result mark)
+-Added Custom Dixie Expansion Colours (5)
+-Added Custom Bomberman Full recolours (9) (Now with official Styled Colours) matching csp/bp
+
+:::::::: Uncharted Log :::::::: 
+Created Custom Icons
+Added Plenty of Characters
+Added Costume expansion up to 9 slots
+Added Custom Recolours to assist 9 Slot expansion
+Added As many as possible Smash 3 Costumes
+Added Custom Dark Links (Self Created Hollow Eyes and Recoloured textures)
+Added Some custom Uncreated Dark Altz
+Added Custom LT.Falcon Icon
+Fixed tons of micro errors with characters (.dat)
+Fixed tons of poor implementation of characters
+Fixed some other character issues
+Fixed RGB colours for costumes
+Fixed GrayFox Double Jump & made him less 0 atmosphere feeling
+Replaced HUD with Smash 3 HUD and VS's Stocks
+Replacing Arcade mode Stocks (incomplete)
+Replaced ALL lucina's model with ones with curves
+Replaced Dark Pits moveset with lilith's (recolours not done yet)
+Replaced Mia + Lucina movesets Now both have unique movesets
+Replaced Young Link with smash 2
+Updated pack to project M mem leak
+Updated Pichu's Body texture on most of them (miscoloured)
+Updated Little Mac's Hoody Skin Texture
+Removed Character Names CSS
+Removed Char names in VS (will be re-adding with custom style)
+Removed Brres from pak file (no more limit break)
+Removed Unused Files (fighter,brres, etc)
+
+
+:::::::: Other Notes :::::::: 
+-Some alt colours i made where uploaded to the git for easy share
+-Most Customs where rushed implementations, Need BP + CSP Touch ups
+-My organized rsbe01.gct is not included

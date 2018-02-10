@@ -1,0 +1,7 @@
+Character calls are in 223.sawnd and 46.sawnd have wii mote calls
+
+Cosmetic.dat
+0x10 - Cosmetic ID (Char Hex'd ID)
+(0x10)0A + 0B - Announcer SFX -1EEC
+(0x10)0C + 0D -  Wii Mote Announcer SFX?
+0x20 - Victory Name

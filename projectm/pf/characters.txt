@@ -7,7 +7,7 @@ Peach -9
 Daisy\Rosalina -9 (NOT) +(Didn't have enough costumes alone)
 Yoshi -10
 Bowser -9
-BowserJR -6 (LTS) -  Needs CSP + BP Redone)
+BowserJR -6 (4 LTS) + 5 Custom Coloured Mini Bowsers)
 Waluigi -9
 Wario -11
 
@@ -22,7 +22,7 @@ Zelda -9
 Toon Zelda -9
 Shiek -9
 Ganon -9
-Geno -9 (NOT) (Lacking 2 or 3 Recolours)
+Geno -9 (NOT)
 
 Pikachu -9
 Mewtwo -9
@@ -51,7 +51,7 @@ Lucina -9 (NOT) (Added Curves)
 Pit -9
 Dark Pit -9 (Needs Dark Pit ALTS- BP + CSP + Textures)
 
-Kibry (Under Development)
+Kirby (Under Development)
 Dedede -9
 Meta Knight -9
 
@@ -66,9 +66,11 @@ GrayFox -9 (NOT) (2x Custom Recolours)
 Ness -9 (cps + bp costume 4)
 Lucas -9
 
-Ice Climbers -9 (Repair CSP + BP Costume 8)
+Ice Climbers -9
 Rob - 9 
 Ryu -9 (NOT) (Needs Alts - BP + CSP + Textures)
+
+Bomberman -9 (NOT) Fully Redone but CSP + BP needs retouches
 
 Pikmin - 9
 Louie -9 (NOT)
@@ -133,3 +135,25 @@ Tails
 ID-119 (1191) HexID-77
 Little Mac
 ID-120 (1201) HexID-78
+
+
+:::::::::::::::::::::: Icons ::::::::::::::::::::
+Cosmetic.dat
+(0x10) 04 - Hex'd ID (Hex'd ID Minus 1)
+
+PNG + Pat
+info2 (ALL)
+
+Clr0 + Mld0
+stgresult.pak
+
+Punch Out
+ID-22  HexID-16
+Final Fantasy
+ID-23  HexID-17
+Xenoblade
+ID-24  HexID-18
+Bomberman
+ID-25  HexID-19
+Street Fighter
+ID-26  HexID-20
