@@ -1,19 +1,19 @@
 ::::::::::::::::::::: Costumes Replaced ::::::::::::::::::
 (Extending All Characters to have 9 or + Costumes)
-(Smash 3 + C + Some Non)
+(Smash 3 + C + Some NoT)
 Mario -11
 Luigi -10
 Peach -9
 Daisy\Rosalina -9 (NOT) +(Didn't have enough costumes alone)
 Yoshi -10
 Bowser -9
-BowserJR -6 (4 LTS) + 5 Custom Coloured Mini Bowsers)
+BowserJR -6 (4 LTS) + 5 Custom Coloured Mini Bowsers) (LTS models don't have proper CSP +BP)
 Waluigi -9
 Wario -11
 
 Donkey Kong -9
 Diddy Kong - 9
-Dixie Kong -4 (NOT)
+Dixie Kong -9 (NOT)
 
 Link -10
 Toon Link -9
@@ -32,6 +32,7 @@ Charizard -9
 Lucario -9
 Pichu -9 (NOT)
 
+Tails -9 (NOT)
 Sonic -9
 Shadow -9
 Knuckles -9 (NOT)
@@ -45,7 +46,7 @@ Marth -9
 Roy -9
 Ike -9
 Mia -9 (NOT)
-Lyn -9 (NOT) (Made 4 Costume Colours Also needs  new Renders)
+Lyn -9 (NOT) (Made All new Recolours + Custom dress Pattern but needs new Renders)
 Lucina -9 (NOT) (Added Curves)
 
 Pit -9
@@ -63,14 +64,14 @@ Cloud -9
 Snake -9
 GrayFox -9 (NOT) (2x Custom Recolours)
 
-Ness -9 (cps + bp costume 4)
+Ness -9 (needs better cps + bp for costume 4)
 Lucas -9
 
 Ice Climbers -9
 Rob - 9 
 Ryu -9 (NOT) (Needs Alts - BP + CSP + Textures)
 
-Bomberman -9 (NOT) Fully Redone but CSP + BP needs retouches
+Bomberman -9 (NOT) Fully Redone custom (recolours) but CSP + BP needs retouches
 
 Pikmin - 9
 Louie -9 (NOT)
@@ -78,12 +79,21 @@ Louie -9 (NOT)
 Samus - 9
 ZSuitSamus -9
 
+:::::::::::::::::::::: Some Info ::::::::::::::::::::
+
+CSPs are 128x160
+Bps are 48x56
+Stocks are 32x32
+CSS Icons are 80x56
+
 :::::::::::::::::::::: Added ::::::::::::::::::::
 Ridley
 ID-67 (671) HexID-43
-Robin (changed ID)
+Ridley Classic
 ID-68 (681) HexID-44
-ID-95 (951) HexID-5f
+
+Robin
+ID-95 (951) HexID-5F
 Shulk
 ID-96 (961) HexID-60
 Chrom
@@ -102,7 +112,7 @@ Gray Fox
 ID-103 (1031) HexID-67
 Lyn
 ID-104 (1041) HexID-68
-Dark Pit (New PSA Lilith)
+Dark Pit
 ID-105 (1051) HexID-69
 Louie
 ID-106 (1061) HexID-6A
@@ -136,6 +146,12 @@ ID-119 (1191) HexID-77
 Little Mac
 ID-120 (1201) HexID-78
 
+:::::::::::::::::::::: Adding ::::::::::::::::::::
+
+Classic Ridley
+Knuckle Joe
+Hector
+Tails (better version)
 
 :::::::::::::::::::::: Icons ::::::::::::::::::::
 Cosmetic.dat
@@ -153,7 +169,7 @@ Final Fantasy
 ID-23  HexID-17
 Xenoblade
 ID-24  HexID-18
-Bomberman
+Bomberman (needs result mdl0)
 ID-25  HexID-19
 Street Fighter
 ID-26  HexID-20

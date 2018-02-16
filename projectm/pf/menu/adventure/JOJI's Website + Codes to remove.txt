@@ -1,0 +1,12 @@
+--------- Codes to remove! ----------
+SubSpace Emissary goes into Training Mode [ds22?]
+* 046E69D8 4800AB38
+
+--------- Codes to get! -----------
+http://ssbbhack.web.fc2.com/codersbe.html#BXCE2SFIXRSBE
+
+Goto the bottom where it says SSBB Codes.
+
+Find BrawlEx Clone Engine v2.0.0.0 Subspace Fix (RSBE.Ver)
+
+Insert to GCT!

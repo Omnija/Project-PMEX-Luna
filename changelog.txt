@@ -1,6 +1,54 @@
-Decided to make a changelog should of made one sooner
+Decided to make a change log should of made one sooner
+Customs = Done by Us (omnija & Sotaeko)
 
 :::::::: Current :::::::: 
+-More Custom icons
+-More Coloured Costumes to extend to 9 slot
+
+=Looking into replacing VS's names (Wanted Sm4sh clarity + shadowing (temp as placeholders)
+	-Made a custom VS's HUD bar behind the names (instead of the streak mark)
+	-Re-adding the VS's character names (VS,training,homerun, etc...)
+=Start Dark Pit Recolours
+=Start Robin,Shulk,Chrom & Ryu Recolours
+=Smash 4 ivysaur Recolours need to be done (ivy + bulba look like shit)
+
+-Removed Winner Character Name Calls for clones
+-Removed Character Wiimote Announcer SFX (nobody likes extra noise)
+
+-Moved Robin to 951 instead of 681 (for ridley classic) will add later
+
+-Added Alterations to Bomberman's Custom Recolours (Less Neon & more lively)
+-Added RimLighting to my Custom Recoloured Bombermans
+-Added Rim Lighting Tails + New Custom recolours for new model
+-Added Rim Lighting to Dark Pit
+-Added Rim Lighting to Lyn + Custom Patterned & Recoloured Dress
++Added Rim Lighting to Chrom + Complete New Custom Recolours (WIP)
++Added Rim Lighting to Ryu + Complete New Custom Recolours (WIP)
++Added Rim Lighting to Shulk + Complete New Custom Recolours (WIP)
++Added Rim Lighting to Robin + Complete New Custom Recolours (WIP)
+-Added Rim Lighting to Smash2 yLink + Some new custom Recolours (Midnight, Brown, Swamp)
+-Added Rim Lighting to Link Costume 5
+-Added Rim Lighting to Knuckles + Costume 9 recoloured (removed hat for strip)
+-Added Custom Emerald Lyn (Dark AltZ)
+-Added Custom Emerald Bomberman (Dark AltZ)
+-Added Custom Emerald Young Link (Dark AltZ)
+-Added Missing Files for SubSpace (untested)
+
+-Replaced Shadow Costume 8 with custom (brown fur & red) Shadow Recolour
+-Replaced Tails Model with new Model
+-Replaced Tails Icon with Updated Model
+-Replaced Dark Pit (lilith psa) freezes on shooting arrows to (original pit PSA)
+-Replaced Shadow with New Moveset
+-Replaced Tails with New Moveset
+-Replaced Knuckles with New Moveset
+-Replace Lyn with New Moveset
+
+-Fixed Dixie Kong Costume Defection (Super Kong)
+-Fixed Tails Emerald (Dark AltZ) + Added Rim Lighting
+-Fixed Knuckles Emerald (Dark AltZ) + Added Rim Lighting
+-Fixed Dark Pit Emerald (Dark AltZ) + Added Rim Lighting
+
+:::::::: Previous :::::::: 
 -More Custom icons
 -More Coloured Costume to extend to 9 slot
 

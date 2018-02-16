@@ -1,33 +1,37 @@
 :::::::::::::::::::::::::::::::: Missing Hold Z Dark ::::::::::::::::::::::::::::::::
-Bomberman
-Chrom
+Bomberman - Done + Rim Lighting
+-Shaders (0)
+Chrom Rim Lighting
 Cloud
 Daisy
-Dark Pit - Done
+Dark Pit - Done + Rim Lighting
 -Shaders (1,2,3,4,5,6)
 Dixie
-Game & Watch
+Game & Watch (Broken)
 Geno
 Gray Fox
-Knuckles - Done
+Knuckles - Done + Rim Lighting
 -Shaders (0,1,2,5,6)
 Koopa JR
 Louie
 Little Mac
 LT.Falcon
-Lyn
-Ninten
+Lyn - Done + Rim Lighting
+-Shaders (0,1,2,3)
 Mia
-Robin
-Ryu
+Robin Rim Lighting
+Ridley (Fixed)Rim Lighting
+Ryu Rim Lighting
 Shadow
 -Shaders (0,1,4,5,6,7,8,9)
-Shulk
-Tails - Done
--Shaders (0,1)
+Shulk Rim Lighting
+Tails - Done + Rim Lighting
+-Shaders (0,1,2,3,4,5)
 Toon Zelda
-Travis - Done
+Travis - Done (Replaced)
 -Shaders (0,1)
+Young Link - Done + Rim Lighting
+-Shaders (1,2,3,4)
 
 :::::::::::::::::::::::::::::::: Incorrect ::::::::::::::::::::::::::::::::
 Pichu
