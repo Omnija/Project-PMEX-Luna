@@ -9,26 +9,28 @@ Customs = Done by Us (omnija & Sotaeko)
 	-Made a custom VS's HUD bar behind the names (instead of the streak mark)
 	-Re-adding the VS's character names (VS,training,homerun, etc...)
 =Start Dark Pit Recolours
-=Start Robin,Shulk,Chrom & Ryu Recolours
-=Smash 4 ivysaur Recolours need to be done (ivy + bulba look like shit)
+=Start Robin & Shulk
+=Smash 4 ivysaur Recolours need to be done
 
 -Removed Winner Character Name Calls for clones
 -Removed Character Wiimote Announcer SFX (nobody likes extra noise)
 
 -Moved Robin to 951 instead of 681 (for ridley classic) will add later
 
+-Added a Complete New Set of Custom Recolours for Ryu & Ken 
 -Added Alterations to Bomberman's Custom Recolours (Less Neon & more lively)
 -Added RimLighting to my Custom Recoloured Bombermans
 -Added Rim Lighting Tails + New Custom recolours for new model
 -Added Rim Lighting to Dark Pit
 -Added Rim Lighting to Lyn + Custom Patterned & Recoloured Dress
-+Added Rim Lighting to Chrom + Complete New Custom Recolours (WIP)
-+Added Rim Lighting to Ryu + Complete New Custom Recolours (WIP)
+-Added Rim Lighting to Chrom + Complete New Custom Recolours (needs CSP + BP)
 +Added Rim Lighting to Shulk + Complete New Custom Recolours (WIP)
 +Added Rim Lighting to Robin + Complete New Custom Recolours (WIP)
 -Added Rim Lighting to Smash2 yLink + Some new custom Recolours (Midnight, Brown, Swamp)
 -Added Rim Lighting to Link Costume 5
 -Added Rim Lighting to Knuckles + Costume 9 recoloured (removed hat for strip)
+-Added Custom Emerald  Ryu (Dark AltZ)
+-Added Custom Emerald  Chrom (Dark AltZ) (white eyes not visible?)
 -Added Custom Emerald Lyn (Dark AltZ)
 -Added Custom Emerald Bomberman (Dark AltZ)
 -Added Custom Emerald Young Link (Dark AltZ)

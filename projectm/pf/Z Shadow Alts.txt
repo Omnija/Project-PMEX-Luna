@@ -1,7 +1,7 @@
 :::::::::::::::::::::::::::::::: Missing Hold Z Dark ::::::::::::::::::::::::::::::::
 Bomberman - Done + Rim Lighting
 -Shaders (0)
-Chrom Rim Lighting
+Chrom - Done + Rim Lighting
 Cloud
 Daisy
 Dark Pit - Done + Rim Lighting
@@ -21,7 +21,7 @@ Lyn - Done + Rim Lighting
 Mia
 Robin Rim Lighting
 Ridley (Fixed)Rim Lighting
-Ryu Rim Lighting
+Ryu - Done + Rim Lighting
 Shadow
 -Shaders (0,1,4,5,6,7,8,9)
 Shulk Rim Lighting
