@@ -48,6 +48,7 @@ Ike -9
 Mia -9 (NOT)
 Lyn -9 (NOT) (Made All new Recolours + Custom dress Pattern but needs new Renders)
 Lucina -9 (NOT) (Added Curves)
+Chrom -9 (NOT) (Needs BP + CSP For Custom Recolours)
 
 Pit -9
 Dark Pit -9 (Needs Dark Pit ALTS- BP + CSP + Textures)
@@ -89,9 +90,13 @@ CSS Icons are 80x56
 :::::::::::::::::::::: Added ::::::::::::::::::::
 Ridley
 ID-67 (671) HexID-43
-Ridley Classic
+=Ridley Classic
 ID-68 (681) HexID-44
+=Metal Face
+ID-69 (691) HexID-46
 
+=Knuckle Joe
+ID-94 (941) HexID-5E
 Robin
 ID-95 (951) HexID-5F
 Shulk

@@ -1,16 +1,44 @@
 Decided to make a change log should of made one sooner
 Customs = Done by Us (omnija & Sotaeko)
+- (added and in game)
++ (adding but not done yet)
+= (WIP but stalled and will come back)
 
 :::::::: Current :::::::: 
+
+=Looking into replacing VS's names (Wanted Sm4sh clarity + shadowing (temp as placeholders)
+	-Made a custom VS's HUD bar behind the names (instead of the streak mark)
+	-Re-added the VS's character names (VS,training,homerun, etc...)
+	-Names have been redone with better font
+=Start Dark Pit Recolours
+=Start Shulk
+=Smash 4 ivysaur Recolours need to be done (Replace Original Ivy + Bulba)?
+=Ryu Needs PSA Dash Dancing and probably other Tweaks
+
+-Added Rim Lighting to Dark Pit + New Textures and Recolours
+-Added Rim Lighting to Shulk + Complete New Custom Recolours (WIP)
+=Added Rim Lighting to Robin + Complete New Custom Recolours (WIP) (Re-Drawing Textures) (on hold - model is corrupted)
+
+=Added CSS InfStc costume fillers to prevent (WII lockup) (Currently Un-abled to Add them all... Breaks CSS)
+	- Was adding them but then it corrupted CSS name tags and other things
+	
+-Overhaul Ridley texture (Completely redoing ridleys textures by hand)	
+
++Replaced Chrom's New Recolour BP + CSP (Not done atm just Labeled with tags)
+
+:::::::: Previous :::::::: 
+
 -More Custom icons
 -More Coloured Costumes to extend to 9 slot
 
 =Looking into replacing VS's names (Wanted Sm4sh clarity + shadowing (temp as placeholders)
 	-Made a custom VS's HUD bar behind the names (instead of the streak mark)
-	-Re-adding the VS's character names (VS,training,homerun, etc...)
+	-Re-added the VS's character names (VS,training,homerun, etc...)
+	-Names have been redone with better font
 =Start Dark Pit Recolours
-=Start Robin & Shulk
-=Smash 4 ivysaur Recolours need to be done
+=Start Shulk
+=Smash 4 ivysaur Recolours need to be done (Replace Original Ivy + Bulba)
+=Ryu Needs PSA Dash Dancing and probably other Tweaks
 
 -Removed Winner Character Name Calls for clones
 -Removed Character Wiimote Announcer SFX (nobody likes extra noise)
@@ -19,16 +47,19 @@ Customs = Done by Us (omnija & Sotaeko)
 
 -Added a Complete New Set of Custom Recolours for Ryu & Ken 
 -Added Alterations to Bomberman's Custom Recolours (Less Neon & more lively)
--Added RimLighting to my Custom Recoloured Bombermans
+-Added Rim Lighting to Bomberman + Custom Recolours (Closer to official Design)
 -Added Rim Lighting Tails + New Custom recolours for new model
--Added Rim Lighting to Dark Pit
++Added Rim Lighting to Dark Pit + New Textures and Recolours
+-Added Rim lighting to Dixie + Complete New Custom Recolours and Clearer CSP + BP
 -Added Rim Lighting to Lyn + Custom Patterned & Recoloured Dress
 -Added Rim Lighting to Chrom + Complete New Custom Recolours (needs CSP + BP)
 +Added Rim Lighting to Shulk + Complete New Custom Recolours (WIP)
-+Added Rim Lighting to Robin + Complete New Custom Recolours (WIP)
+=Added Rim Lighting to Robin + Complete New Custom Recolours (WIP) (Re-Drawing Textures) (on hold - model is corrupted)
 -Added Rim Lighting to Smash2 yLink + Some new custom Recolours (Midnight, Brown, Swamp)
 -Added Rim Lighting to Link Costume 5
--Added Rim Lighting to Knuckles + Costume 9 recoloured (removed hat for strip)
+-Added Rim Lighting to Knuckles + Costume 9 recoloured (removed hat for custom recoloured strip)
+-Added Rim Lighting to Mia
+-Added Custom Emerald Mia (Dark AltZ)
 -Added Custom Emerald  Ryu (Dark AltZ)
 -Added Custom Emerald  Chrom (Dark AltZ) (white eyes not visible?)
 -Added Custom Emerald Lyn (Dark AltZ)
@@ -36,6 +67,9 @@ Customs = Done by Us (omnija & Sotaeko)
 -Added Custom Emerald Young Link (Dark AltZ)
 -Added Missing Files for SubSpace (untested)
 
+=Added CSS InfStc costume fillers to prevent (WII lockup) (Currently Un-abled to Add them all... Breaks CSS)
+	- Was adding them but then it corrupted CSS name tags and other things)
+	
 -Replaced Shadow Costume 8 with custom (brown fur & red) Shadow Recolour
 -Replaced Tails Model with new Model
 -Replaced Tails Icon with Updated Model
@@ -44,8 +78,11 @@ Customs = Done by Us (omnija & Sotaeko)
 -Replaced Tails with New Moveset
 -Replaced Knuckles with New Moveset
 -Replace Lyn with New Moveset
+-Replaced Ryu model from wii-U to 3ds + custom recolours
 
--Fixed Dixie Kong Costume Defection (Super Kong)
+-Fixed Lyn #8 Costume was missing custom version (Oops)
+-Fixed Tons of Rim Lighting Encoded Types (Oops)
+-Fixed Dixie Kong Costume Defection (Super Kong), Also redid the custom recolours
 -Fixed Tails Emerald (Dark AltZ) + Added Rim Lighting
 -Fixed Knuckles Emerald (Dark AltZ) + Added Rim Lighting
 -Fixed Dark Pit Emerald (Dark AltZ) + Added Rim Lighting

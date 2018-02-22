@@ -1,4 +1,4 @@
-# Project M - Luna
+# Project Luna
 ![ScreenShot](https://i.imgur.com/dK5Jkp4.png)
 
 ### Notes
@@ -18,4 +18,4 @@ We also test it on both platform to assure that it does work as intended.
 * File Management
 
 ### Maintained by
-Omnija (ME) & Sotaeko (Wife)
+Omnija & Sotaeko 
