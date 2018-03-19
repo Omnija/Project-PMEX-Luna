@@ -10,19 +10,25 @@ Customs = Done by Us (omnija & Sotaeko)
 	-Made a custom VS's HUD bar behind the names (instead of the streak mark)
 	-Re-added the VS's character names (VS,training,homerun, etc...)
 	-Names have been redone with better font
-=Start Dark Pit Recolours
-=Start Shulk
+	
++Start Dark Pit Recolours
++Start Shulk
 =Smash 4 ivysaur Recolours need to be done (Replace Original Ivy + Bulba)?
-=Ryu Needs PSA Dash Dancing and probably other Tweaks
++Ryu Needs PSA Dash Dancing and probably other Tweaks
+
+-Added Knuckle Joe ( VS Ness Causes Spark Lingering)
 
 -Added Rim Lighting to Dark Pit + New Textures and Recolours
--Added Rim Lighting to Shulk + Complete New Custom Recolours (WIP)
+=Added Rim Lighting to Shulk + Complete New Custom Recolours (WIP)
 =Added Rim Lighting to Robin + Complete New Custom Recolours (WIP) (Re-Drawing Textures) (on hold - model is corrupted)
+-Added Rim Lighting to Knuckle Joe + Complete New Custom Simple + Updated CSP + BP  (Will Over Look Later)
+-Added Custom Emerald Knuckle Joe(Dark AltZ
+=Added Ridley Recolours for Custom Textures + BP + CSP
 
 =Added CSS InfStc costume fillers to prevent (WII lockup) (Currently Un-abled to Add them all... Breaks CSS)
 	- Was adding them but then it corrupted CSS name tags and other things
 	
--Overhaul Ridley texture (Completely redoing ridleys textures by hand)	
+-Overhaul Ridley Textures (Completely re-drawing Ridley's textures by hand)	
 
 +Replaced Chrom's New Recolour BP + CSP (Not done atm just Labeled with tags)
 

@@ -95,7 +95,7 @@ ID-68 (681) HexID-44
 =Metal Face
 ID-69 (691) HexID-46
 
-=Knuckle Joe
+Knuckle Joe
 ID-94 (941) HexID-5E
 Robin
 ID-95 (951) HexID-5F
