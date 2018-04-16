@@ -56,6 +56,7 @@ Dark Pit -9 (Needs Dark Pit ALTS- BP + CSP + Textures)
 Kirby (Under Development)
 Dedede -9
 Meta Knight -9
+Knuckle Joe - 9 (NOT) - Redone (may need some touch ups)
 
 Captain Falcon -9
 LT.Captain -9 (sm4sh zss) (Needs recolours/csp/bp + Texture reanimations)

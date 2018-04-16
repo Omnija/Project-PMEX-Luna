@@ -21,12 +21,13 @@ Customs = Done by Us (omnija & Sotaeko)
 -Added Rim Lighting to Dark Pit + New Textures and Recolours
 =Added Rim Lighting to Shulk + Complete New Custom Recolours (WIP)
 =Added Rim Lighting to Robin + Complete New Custom Recolours (WIP) (Re-Drawing Textures) (on hold - model is corrupted)
--Added Rim Lighting to Knuckle Joe + Complete New Custom Simple + Updated CSP + BP  (Will Over Look Later)
--Added Custom Emerald Knuckle Joe(Dark AltZ
+-Added Custom Emerald Knuckle Joe(Dark AltZ) (needs fixing)
 =Added Ridley Recolours for Custom Textures + BP + CSP
 
 =Added CSS InfStc costume fillers to prevent (WII lockup) (Currently Un-abled to Add them all... Breaks CSS)
 	- Was adding them but then it corrupted CSS name tags and other things
+
+-Fixed CSP re-sized and format changed (Some where not cmpr others where too large)
 	
 -Overhaul Ridley Textures (Completely re-drawing Ridley's textures by hand)	
 
