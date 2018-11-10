@@ -15,23 +15,30 @@ Customs = Done by Us (omnija & Sotaeko)
 +Start Shulk
 =Smash 4 ivysaur Recolours need to be done (Replace Original Ivy + Bulba)?
 +Ryu Needs PSA Dash Dancing and probably other Tweaks
++Ryu & Ken now have connected name and dependant names in battle
++Ryu & Ken now have indipendant icons at the result screen
 
 -Added Knuckle Joe ( VS Ness Causes Spark Lingering)
 
--Added Rim Lighting to Dark Pit + New Textures and Recolours
+=Added Rim Lighting to Dark Pit + New Textures and Recolours
 =Added Rim Lighting to Shulk + Complete New Custom Recolours (WIP)
 =Added Rim Lighting to Robin + Complete New Custom Recolours (WIP) (Re-Drawing Textures) (on hold - model is corrupted)
 -Added Custom Emerald Knuckle Joe(Dark AltZ) (needs fixing)
 =Added Ridley Recolours for Custom Textures + BP + CSP
+-Added Kirby to 9 costumes
 
 =Added CSS InfStc costume fillers to prevent (WII lockup) (Currently Un-abled to Add them all... Breaks CSS)
 	- Was adding them but then it corrupted CSS name tags and other things
 
 -Fixed CSP re-sized and format changed (Some where not cmpr others where too large)
+-Fixed some pac syntacs that were incorrectly added or duplicated
+-Fixed Kirby Inhale Freezing and Waluigi's t-pose
 	
 -Overhaul Ridley Textures (Completely re-drawing Ridley's textures by hand)	
 
++Replaced LT.Falcon with Mage Gannon & changed some of Ganon's skins to not be the same as Mage (needs rim lighting)
 +Replaced Chrom's New Recolour BP + CSP (Not done atm just Labeled with tags)
++Replaced Falco's Moveset with shooting deflector
 
 :::::::: Previous :::::::: 
 

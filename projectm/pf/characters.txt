@@ -126,8 +126,7 @@ Ryu
 ID-107 (1071) HexID-6B
 Cloud
 ID-108 (1081) HexID-6C
-LT.Falcon (Sm4sh ZSS) 
-(Missing Recolours,icons,bp and csp)
+Mage-Ganon
 ID-109 (1091) HexID-6D
 Metal Sonic
 ID-110 (1101) HexID-6E
@@ -160,6 +159,11 @@ Hector
 Tails (better version)
 
 :::::::::::::::::::::: Icons ::::::::::::::::::::
+CSSslot.dat
+Red   = 00
+Blue  = 01
+Green = 03
+
 Cosmetic.dat
 (0x10) 04 - Hex'd ID (Hex'd ID Minus 1)
 
