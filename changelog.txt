@@ -21,7 +21,7 @@ Customs = Done by Us (omnija & Sotaeko)
 -Added Knuckle Joe ( VS Ness Causes Spark Lingering)
 
 =Added Rim Lighting to Dark Pit + New Textures and Recolours
-=Added Rim Lighting to Shulk + Complete New Custom Recolours (WIP)
+-Added Rim Lighting to Shulk + Some Temp Custom Recolours
 =Added Rim Lighting to Robin + Complete New Custom Recolours (WIP) (Re-Drawing Textures) (on hold - model is corrupted)
 -Added Custom Emerald Knuckle Joe(Dark AltZ) (needs fixing)
 =Added Ridley Recolours for Custom Textures + BP + CSP
@@ -33,12 +33,14 @@ Customs = Done by Us (omnija & Sotaeko)
 -Fixed CSP re-sized and format changed (Some where not cmpr others where too large)
 -Fixed some pac syntacs that were incorrectly added or duplicated
 -Fixed Kirby Inhale Freezing and Waluigi's t-pose
+-Fixed Ridley's Missing Name Tag in Training Mode
+-Fixed a few characters causing stage select freezing
 	
 -Overhaul Ridley Textures (Completely re-drawing Ridley's textures by hand)	
 
-+Replaced LT.Falcon with Mage Gannon & changed some of Ganon's skins to not be the same as Mage (needs rim lighting)
-+Replaced Chrom's New Recolour BP + CSP (Not done atm just Labeled with tags)
-+Replaced Falco's Moveset with shooting deflector
+-Replaced LT.Falcon with Mage Gannon & changed some of Ganon's skins to not be the same as Mage (needs rim lighting)
+-Replaced Chrom's New Recolour BP + CSP (Not done atm just Labeled with tags)
+-Replaced Falco's Moveset with shooting deflector
 
 :::::::: Previous :::::::: 
 
