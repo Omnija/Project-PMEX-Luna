@@ -4,7 +4,7 @@ Bomberman - Done + Rim Lighting
 Chrom - Done + Rim Lighting
 Cloud
 Daisy
-Dark Pit - Done + Rim Lighting
+Dark Pit - Done + Rim Lighting - Changed May need to re-do
 -Shaders (1,2,3,4,5,6)
 Dixie
 Game & Watch (Broken)
@@ -13,9 +13,9 @@ Gray Fox
 Knuckles - Done + Rim Lighting
 -Shaders (0,1,2,5,6)
 Koopa JR
-Louie
+Louie Change (Villager)
 Little Mac
-LT.Falcon
+LT.Falcon Change (Mage Ganon)
 Lyn - Done + Rim Lighting
 -Shaders (0,1,2,3)
 Mia

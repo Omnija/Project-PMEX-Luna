@@ -14,21 +14,47 @@ Customs = Done by Us (omnija & Sotaeko)
 +Start Dark Pit Recolours
 +Start Shulk
 =Smash 4 ivysaur Recolours need to be done (Replace Original Ivy + Bulba)?
-+Ryu Needs PSA Dash Dancing and probably other Tweaks
-+Ryu & Ken now have connected name and dependant names in battle
-+Ryu & Ken now have indipendant icons at the result screen
 
--Added Knuckle Joe ( VS Ness Causes Spark Lingering)
-
+=Added Chrome Recoloured CSPs
 =Added Rim Lighting to Dark Pit + New Textures and Recolours
--Added Rim Lighting to Shulk + Some Temp Custom Recolours
 =Added Rim Lighting to Robin + Complete New Custom Recolours (WIP) (Re-Drawing Textures) (on hold - model is corrupted)
--Added Custom Emerald Knuckle Joe(Dark AltZ) (needs fixing)
 =Added Ridley Recolours for Custom Textures + BP + CSP
--Added Kirby to 9 costumes
 
 =Added CSS InfStc costume fillers to prevent (WII lockup) (Currently Un-abled to Add them all... Breaks CSS)
 	- Was adding them but then it corrupted CSS name tags and other things
+
+-Replaced Dark Pits Moveset (Again)
+-Replaced Young Link's Moveset
+-Replaced Louie with Villager
+	=Needs Rimlighting and DarkZ
+-Replaced Lucas and Ivysaur with different costumes with updated Icons
+-Replaced Shadow Mario with Cowboy Mario
+-Replaced Knuckles Costumes with Smash3C
+-Replaced Daisy with DR.Mario
+
+-Corrected Giga Bowser and Wario Man complete characters and files
+
+-Restored Mario to Default Brawl movementset
+
+
+-Fixed Ivysaurs CSP's being off the page and cutshort
+-Fixed Villager CSP's being huge and incomplete
+-Fixed Wario costumes freezing
+
+-Removed some things causing game to freeze/lockup and stop stage music
+-Removed unused files
+
+=Missing Bomberman Result Screen Mark (mdl0)
+
+:::::::: Previous :::::::: 
+
+-Added Ryu & Ken now have connected name and dependant names in battle
+-Added Ryu & Ken now have indipendant icons at the result screen
+-Added Knuckle Joe ( VS Ness Causes Spark Lingering)
+-Added Ryu & Ken Wavedancing
+-Added Rim Lighting to Shulk + Some Temp Custom Recolours
+-Added Custom Emerald Knuckle Joe(Dark AltZ) (needs fixing)
+-Added Kirby to 9 costumes
 
 -Fixed CSP re-sized and format changed (Some where not cmpr others where too large)
 -Fixed some pac syntacs that were incorrectly added or duplicated

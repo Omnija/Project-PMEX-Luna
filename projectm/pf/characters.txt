@@ -1,85 +1,87 @@
 ::::::::::::::::::::: Costumes Replaced ::::::::::::::::::
 (Extending All Characters to have 9 or + Costumes)
 (Smash 3 + C + Some NoT)
-Mario -11
-Luigi -10
-Peach -9
-Daisy\Rosalina -9 (NOT) +(Didn't have enough costumes alone)
-Yoshi -10
-Bowser -9
-BowserJR -6 (4 LTS) + 5 Custom Coloured Mini Bowsers) (LTS models don't have proper CSP +BP)
-Waluigi -9
-Wario -11
 
-Donkey Kong -9
-Diddy Kong - 9
+Mario -11 (Smash 3 + C)
+Luigi -10 (Smash 3 + C)
+Peach -9 (Smash 3 + C)
+Daisy\Rosalina -9 (NOT) + (Didn't have enough costumes alone)
+Yoshi -10 (Smash 3 + C)
+Bowser -9 (Smash 3 + C)
+BowserJR -6 (4 LTS) + 5 Custom Coloured Mini Bowsers) (LTS models don't have proper CSP +BP)
+Waluigi -9 (Remastered)
+Wario -11 (Smash 3 + C)
+Geno -9 (LegacyXP)
+
+Donkey Kong -9 (Smash3)
+Diddy Kong - 9 (Smash3)
 Dixie Kong -9 (NOT)
 
-Link -10
-Toon Link -9
+Link -10 (Smash 3 + C)
+Toon Link -9 (Smash3 + C)
 Young Link -9 (NOT) (Needs Touching Up + Recolours)
-Zelda -9
-Toon Zelda -9
-Shiek -9
-Ganon -9
-Geno -9 (NOT)
+Zelda -9 (Smash 3 + C)
+Toon Zelda -9 (Smash 3 + C)
+Shiek -9 (Smash 3 + C)
+Ganon -9 (Smash 3 + C)
+Mage Ganon -9 (NOT)
 
-Pikachu -9
-Mewtwo -9
-Squirtle -9 ((NOT)3x TMNT missing CSP + BP And Lacking Green Team)
-Jigglypuff -9
-Charizard -9
-Lucario -9
+Pikachu -9 (Smash 3 + C)
+Mewtwo -9 (Smash 3 + C)
+Squirtle -9 (Smash 3 + C)
+Jigglypuff -9 (Smash 3 + C)
+Charizard -9 (Smash 3 + C)
+Lucario -9 (Smash 3 + C)
 Pichu -9 (NOT)
 
 Tails -9 (NOT)
-Sonic -9
-Shadow -9
-Knuckles -9 (NOT)
+Sonic -9 (Smash 3 + C)
+Shadow -9 (NOT)
+Knuckles -9 (Smash 3 + C)
 Metal Sonic -9 (NOT)
 
-Fox -10
-Wolf -9
-Falco -9
+Fox -10 (Smash 3 + C)
+Wolf -9 (Smash 3 + C)
+Falco -9 (Smash 3 + C)
 
-Marth -9
-Roy -9
-Ike -9
+Marth -9 (Smash 3 + C)
+Roy -9 (Smash 3 + C)
+Ike -9 (Smash 3 + C)
 Mia -9 (NOT)
 Lyn -9 (NOT) (Made All new Recolours + Custom dress Pattern but needs new Renders)
 Lucina -9 (NOT) (Added Curves)
 Chrom -9 (NOT) (Needs BP + CSP For Custom Recolours)
 
-Pit -9
+Pit -9 
 Dark Pit -9 (Needs Dark Pit ALTS- BP + CSP + Textures)
 
-Kirby (Under Development)
-Dedede -9
-Meta Knight -9
+Kirby (Smash 3 + C)
+Dedede -9 (Smash 3 + C)
+Meta Knight -9 (Smash 3 + C)
 Knuckle Joe - 9 (NOT) - Redone (may need some touch ups)
 
-Captain Falcon -9
-LT.Captain -9 (sm4sh zss) (Needs recolours/csp/bp + Texture reanimations)
+Captain Falcon -9 (Smash 3 + C)
 
-Cloud -9
+Cloud -9 (Smash 3 + C)
 
-Snake -9
+Snake -9 (Smash 3 + C)
 GrayFox -9 (NOT) (2x Custom Recolours)
 
-Ness -9 (needs better cps + bp for costume 4)
-Lucas -9
+Ness -9 (Smash 3 + C)
+Lucas -9 (Smash 3 + C)
 
-Ice Climbers -9
-Rob - 9 
+Ice Climbers -9 (Smash 3 + C)
+Rob -9 (Smash 3 + C) 
 Ryu -9 (NOT) (Needs Alts - BP + CSP + Textures)
 
 Bomberman -9 (NOT) Fully Redone custom (recolours) but CSP + BP needs retouches
+Villager -9 (NOT)
+Pikmin - 9 (Smash 3 + C)
 
-Pikmin - 9
-Louie -9 (NOT)
+Louie -9 (NOT) - Replaced with Villager
 
-Samus - 9
-ZSuitSamus -9
+Samus - 9 (Smash 3 + C)
+ZSuitSamus -9 (Smash 3 + C)
 
 :::::::::::::::::::::: Some Info ::::::::::::::::::::
 
@@ -120,7 +122,7 @@ Lyn
 ID-104 (1041) HexID-68
 Dark Pit
 ID-105 (1051) HexID-69
-Louie
+Villager (was Louie)
 ID-106 (1061) HexID-6A
 Ryu
 ID-107 (1071) HexID-6B
@@ -134,7 +136,7 @@ Toon Zelda
 ID-111 (1111) HexID-6f
 Waluigi
 ID-112 (1121) HexID-70 [2A]
-Daisy
+Dr. Mario (was Daisy)
 ID-113 (1131) HexID-71
 Geno
 ID-114 (1141) HexID-72
@@ -150,6 +152,14 @@ Tails
 ID-119 (1191) HexID-77
 Little Mac
 ID-120 (1201) HexID-78
+
+::::::::::::::::: Other Characters ::::::::::::::::
+
+Giga Bowser
+ID-44 (441)
+
+WarioMan
+ID-66 (661)
 
 :::::::::::::::::::::: Adding ::::::::::::::::::::
 
@@ -182,4 +192,6 @@ ID-24  HexID-18
 Bomberman (needs result mdl0)
 ID-25  HexID-19
 Street Fighter
-ID-26  HexID-20
+ID-26  HexID-1A
+Animal Crossing
+ID-27  HexID-1B
