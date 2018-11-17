@@ -85,18 +85,23 @@ ZSuitSamus -9 (Smash 3 + C)
 
 :::::::::::::::::::::: Some Info ::::::::::::::::::::
 
-CSPs are 128x160
 Bps are 48x56
+CSPs are 128x160
 Stocks are 32x32
 CSS Icons are 80x56
 
 :::::::::::::::::::::: Added ::::::::::::::::::::
 Ridley
+ID-43 (431) HexID-?
 ID-67 (671) HexID-43
 =Ridley Classic
-ID-68 (681) HexID-44
-=Metal Face
-ID-69 (691) HexID-46
+ID-68 (681) HexID-
+
+
+Cloud
+ID-92 (931) HexID-5C
+Mage-Ganon
+ID-93 (941) HexID-5D
 
 Knuckle Joe
 ID-94 (941) HexID-5E
@@ -126,10 +131,12 @@ Villager (was Louie)
 ID-106 (1061) HexID-6A
 Ryu
 ID-107 (1071) HexID-6B
-Cloud
+
+Cloud - Master Hand
 ID-108 (1081) HexID-6C
-Mage-Ganon
+Mage-Ganon - Crazy Hand
 ID-109 (1091) HexID-6D
+
 Metal Sonic
 ID-110 (1101) HexID-6E
 Toon Zelda

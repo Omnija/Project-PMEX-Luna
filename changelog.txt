@@ -23,6 +23,25 @@ Customs = Done by Us (omnija & Sotaeko)
 =Added CSS InfStc costume fillers to prevent (WII lockup) (Currently Un-abled to Add them all... Breaks CSS)
 	- Was adding them but then it corrupted CSS name tags and other things
 
+=Missing Bomberman Result Screen Mark (mdl0)
+
+-Changed Cloud & Mage Ganon ID's (They where over writing master hand clan)
+	-108/109 to 92/93
+	
+-Changed all stocks to smash ultimate style
+
+-Restored Master Hand Clan
+-Fixed Avdenture Mode
+-Fixed Classic Mode
+-Fixed Smash Target
+-Fixed Multi Man
+-Fixed Kirby Waluigi instant kill
+
+Notes
+
+
+:::::::: Previous :::::::: 
+
 -Replaced Dark Pits Moveset (Again)
 -Replaced Young Link's Moveset
 -Replaced Louie with Villager
@@ -36,15 +55,13 @@ Customs = Done by Us (omnija & Sotaeko)
 
 -Restored Mario to Default Brawl movementset
 
-
 -Fixed Ivysaurs CSP's being off the page and cutshort
 -Fixed Villager CSP's being huge and incomplete
 -Fixed Wario costumes freezing
+-Fixed Missing Character Names (sandbag, wario man and giga bowser)
 
 -Removed some things causing game to freeze/lockup and stop stage music
 -Removed unused files
-
-=Missing Bomberman Result Screen Mark (mdl0)
 
 :::::::: Previous :::::::: 
 
