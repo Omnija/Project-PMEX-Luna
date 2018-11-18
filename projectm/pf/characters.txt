@@ -92,17 +92,14 @@ CSS Icons are 80x56
 
 :::::::::::::::::::::: Added ::::::::::::::::::::
 Ridley
-ID-43 (431) HexID-?
 ID-67 (671) HexID-43
-=Ridley Classic
-ID-68 (681) HexID-
-
+Ridley Classic
+ID-68 (681) HexID-44 [50]
 
 Cloud
 ID-92 (931) HexID-5C
 Mage-Ganon
 ID-93 (941) HexID-5D
-
 Knuckle Joe
 ID-94 (941) HexID-5E
 Robin
@@ -132,9 +129,9 @@ ID-106 (1061) HexID-6A
 Ryu
 ID-107 (1071) HexID-6B
 
-Cloud - Master Hand
+Master Hand
 ID-108 (1081) HexID-6C
-Mage-Ganon - Crazy Hand
+Crazy Hand
 ID-109 (1091) HexID-6D
 
 Metal Sonic
@@ -170,8 +167,6 @@ ID-66 (661)
 
 :::::::::::::::::::::: Adding ::::::::::::::::::::
 
-Classic Ridley
-Knuckle Joe
 Hector
 Tails (better version)
 

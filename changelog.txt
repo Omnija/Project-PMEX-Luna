@@ -25,20 +25,30 @@ Customs = Done by Us (omnija & Sotaeko)
 
 =Missing Bomberman Result Screen Mark (mdl0)
 
+Notes:
+
+-Added Ridley Classic
+
+-Fixed Mr. Game and Watch DarkZ
+-Fixed Stock player colours
+-Fixed some mode icons
+
+:::::::: Previous :::::::: 
+
 -Changed Cloud & Mage Ganon ID's (They where over writing master hand clan)
 	-108/109 to 92/93
 	
 -Changed all stocks to smash ultimate style
 
 -Restored Master Hand Clan
+
 -Fixed Avdenture Mode
 -Fixed Classic Mode
 -Fixed Smash Target
 -Fixed Multi Man
 -Fixed Kirby Waluigi instant kill
 
-Notes
-
+-Added Smash 3c Enter
 
 :::::::: Previous :::::::: 
 
