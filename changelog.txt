@@ -26,6 +26,26 @@ Customs = Done by Us (omnija & Sotaeko)
 =Missing Bomberman Result Screen Mark (mdl0)
 
 Notes:
+	-Look into Colour Smashing csps
+
+-Fixed broken code that locked up wii on match start
+-Fixed Ridley Classics wii mote sfx
+
+-Added our "CUSTOM" Ridley Recolours (Needs Renders)
+-Added Smash 3C items extras
+-Added Costume Slot Specific Ivysaur Razor Leaf
+-Added Shadows as DarkZ Temp place holders until we get around to making real emeralds
+
+-Restored Metal Material to all the models lacking them
+
+-Replaced Robin's model new lilith models
+	-Made some recolours (Temp)
+	-Lacking 4 more costumes
+
+-Fixed Dixie Kong Graphical Issue (Missing Eyes)
+-Fixed DarkZ Colour Sequences
+
+:::::::: Previous :::::::: 
 
 -Added Ridley Classic
 
