@@ -25,8 +25,39 @@ Customs = Done by Us (omnija & Sotaeko)
 
 =Missing Bomberman Result Screen Mark (mdl0)
 
+=Add Kirby-Fighter L-Loading
+
 Notes:
 	-Look into Colour Smashing csps
+
+-Fixed VS mode stock icon colors (Again)
+-Fixed Missing Custom icons in All Stars
+-Fixed Missing Added Franchise icons to multiple game modes
+-Fixed Info2 Pac files causing crashing (hopefully)
+-Fixed Classic Mode Breaking on Costume Change
+-Fixed Size of some icons
+-Fixed All-Star mode Displaying duplicate invalid characters
+-Fixed Wario's CSS Name Call and Costumes
+
+-Added Robin Female Costumes
+-Added Dark pit Costumes to 7
+-Added Clear Mode Models for everyone
+-Added Code to unlock All-Star and Boss Battle Modes
+-Added Ridley's last Slot Costume
+-Added Alloy Team as Playable Characters
+
+-Replaced some unfunctioning models (wouldn't work with clear or metal modes)
+-Replaced Gray Fox with Metal Face (5 Costumes only)
+-Replaced Target Smash Icons with custom ones to match Smash Ult Style
+-Replaces Classic Mode Stock
+-Replaced Sub Mission Icon
+-Replaced Shiek and Zelda PSA (No Transformations)
+
+-Removed Name Tags except for training mode
+-Removed Fit.pac (Causing Crashes)
+	-Robot
+
+:::::::: Previous :::::::: 
 
 -Fixed broken code that locked up wii on match start
 -Fixed Ridley Classics wii mote sfx

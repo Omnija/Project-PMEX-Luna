@@ -90,16 +90,48 @@ CSPs are 128x160
 Stocks are 32x32
 CSS Icons are 80x56
 
+
+:::::::::::::::::::::: NPC ::::::::::::::::::::
+Red ALloy
+561
+Yellow Alloy
+571
+Blue Alloy
+581
+Green Alloy
+591
+Sand Bag
+601 - 601
+Red ALloy
+621 - 621
+Yellow Alloy
+622 - 631
+Blue Alloy
+623 - 641
+Green Alloy
+624 - 651
+:::::::::::::::::::::: NPC ::::::::::::::::::::
+
 :::::::::::::::::::::: Added ::::::::::::::::::::
+
 Ridley
 ID-67 (671) HexID-43
 Ridley Classic
 ID-68 (681) HexID-44 [50]
 
+Red Alloy
+ID-88 (881) HexID-58
+Blue Alloy
+ID-89 (891) HexID-59
+Green Alloy
+ID-90 (901) HexID-5A
+Yellow Alloy
+ID-91 (911) HexID-5B
+
 Cloud
-ID-92 (931) HexID-5C
+ID-92 (921) HexID-5C
 Mage-Ganon
-ID-93 (941) HexID-5D
+ID-93 (931) HexID-5D
 Knuckle Joe
 ID-94 (941) HexID-5E
 Robin
@@ -118,7 +150,7 @@ Young Link
 ID-101 (1011) HexID-65
 Pichu
 ID-102 (1021) HexID-66
-Gray Fox
+Metal Face
 ID-103 (1031) HexID-67
 Lyn
 ID-104 (1041) HexID-68
@@ -129,10 +161,12 @@ ID-106 (1061) HexID-6A
 Ryu
 ID-107 (1071) HexID-6B
 
+:::::::::::::::::::::: NPC ::::::::::::::::::::
 Master Hand
 ID-108 (1081) HexID-6C
 Crazy Hand
 ID-109 (1091) HexID-6D
+:::::::::::::::::::::: NPC ::::::::::::::::::::
 
 Metal Sonic
 ID-110 (1101) HexID-6E
@@ -140,7 +174,7 @@ Toon Zelda
 ID-111 (1111) HexID-6f
 Waluigi
 ID-112 (1121) HexID-70 [2A]
-Dr. Mario (was Daisy)
+Dr. Mario
 ID-113 (1131) HexID-71
 Geno
 ID-114 (1141) HexID-72
@@ -157,7 +191,9 @@ ID-119 (1191) HexID-77
 Little Mac
 ID-120 (1201) HexID-78
 
-::::::::::::::::: Other Characters ::::::::::::::::
+::::::::::::::::: Other Characters (L-Loading) ::::::::::::::::
+Kirby Fighter
+ID-69 (691) HexID-45
 
 Giga Bowser
 ID-44 (441)
@@ -197,3 +233,10 @@ Street Fighter
 ID-26  HexID-1A
 Animal Crossing
 ID-27  HexID-1B
+
+:::::::::::::::::::::: Possibly Empty Slots ::::::::::::::::::::
+
+20
+38
+41
+47+
