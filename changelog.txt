@@ -29,6 +29,25 @@ Customs = Done by Us (omnija & Sotaeko)
 
 Notes:
 	-Look into Colour Smashing csps
+	-Broke after match screenshot [Green Screen]
+	-Wario Man's BP not showing
+	-Fix HexID connections [CSS, to slot/cosmetic to fighter]
+
+-Added Classic Expansion Pack 9.0s
+-Added Complete Restored Brawl HUD
+	-Menus
+	-Title
+	-CSS & SSS
+	-Result Screen
+
+-Restored Zelda/Shiek to default (Specials are broken)
+
+-Replaced Bowser JR's psa/motion (fixed T-pose Crawl)
+	
+-Fixed 3 Minuite bug crash [Freeze on every 3 minuites and sss]
+-Fixed Red Alloy's Emerald Colours
+
+:::::::: Previous :::::::: 
 
 -Fixed VS mode stock icon colors (Again)
 -Fixed Missing Custom icons in All Stars

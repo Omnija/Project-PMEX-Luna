@@ -166,7 +166,7 @@ Master Hand
 ID-108 (1081) HexID-6C
 Crazy Hand
 ID-109 (1091) HexID-6D
-:::::::::::::::::::::: NPC ::::::::::::::::::::
+:::::::::::::::::::::: Added ::::::::::::::::::::
 
 Metal Sonic
 ID-110 (1101) HexID-6E

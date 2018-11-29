@@ -1,5 +1,5 @@
-RSB?01:
-codeliststart = 80570000
+RSBE??:
+codeliststart = 80566528
 codelistend = 80580000
 hooktype = 7
 poke(800042B8, 60000000)
