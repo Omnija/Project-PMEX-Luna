@@ -31,7 +31,11 @@ Notes:
 	-Look into Colour Smashing csps
 	-Broke after match screenshot [Green Screen]
 	-Wario Man's BP not showing
-	-Fix HexID connections [CSS, to slot/cosmetic to fighter]
+	
+-Fixed bootStrap being too large [Crashing Wii]
+-Fixed gameconfig to allow more codes [was restricted]
+
+:::::::: Previous :::::::: 
 
 -Added Classic Expansion Pack 9.0s
 -Added Complete Restored Brawl HUD
