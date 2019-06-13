@@ -7,8 +7,8 @@ Customs = Done by Us (omnija & Sotaeko)
 :::::::: Current :::::::: 
 
 =Looking into replacing VS's names (Wanted Sm4sh clarity + shadowing (temp as placeholders)
-	-Made a custom VS's HUD bar behind the names (instead of the streak mark)
-	-Re-added the VS's character names (VS,training,homerun, etc...)
+	-Made a custom VS's HUD bar behind the names (Only Applied to Training Now)
+	-Re-added the VS's character names (Only Applied to Training Now)
 	-Names have been redone with better font
 	
 +Start Dark Pit Recolours
@@ -30,7 +30,10 @@ Customs = Done by Us (omnija & Sotaeko)
 Notes:
 	-Look into Colour Smashing csps
 	-Broke after match screenshot [Green Screen]
-	-Wario Man's BP not showing
+	-Wario Man's BP not showing	
+	
+
+:::::::: Previous :::::::: 		
 	
 -Fixed bootStrap being too large [Crashing Wii]
 -Fixed gameconfig to allow more codes [was restricted]
