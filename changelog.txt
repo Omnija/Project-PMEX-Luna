@@ -27,6 +27,10 @@ Customs = Done by Us (omnija & Sotaeko)
 
 =Add Kirby-Fighter L-Loading
 
+-Fixed Wario not using weapons/grabs and crashing the game
+-Replaced Pichu with new hats
+-Replaced Ridley Classic with updated files
+
 Notes:
 	-Look into Colour Smashing csps
 	-Broke after match screenshot [Green Screen]
