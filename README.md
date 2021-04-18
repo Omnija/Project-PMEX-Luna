@@ -17,5 +17,26 @@ We also test it on both platform to assure that it does work as intended.
 * Sounds & SFX
 * File Management
 
+### What's Working
+* All modes should be working
+* Versus modes work (Disable Items to avoid game crashes)
+* L-loading for some characters
+* Alt-z loading 
+* All alt forms should be working (Metal/invisible etc)
+* Extra maps
+
+### What's Not Working
+* Voices and wii mote calls disabled
+* Netplay untested
+* Probably More
+
+### What Needs Fixing
+* Victory themes
+* Add voices/call and sounds
+* Probably more
+
 ### Maintained by
 Omnija & Sotaeko 
+
+## Screenshots
+![Intro](/docs/mainmenu.png) ![Intro](/docs/roster.png)
