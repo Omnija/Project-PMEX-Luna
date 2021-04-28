@@ -227,11 +227,11 @@ Final Fantasy
 ID-23  HexID-17
 Xenoblade
 ID-24  HexID-18
-Bomberman (needs result mdl0)
+Bomberman
 ID-25  HexID-19
 Street Fighter
 ID-26  HexID-1A
-Animal Crossing
+Animal Crossing (missing mld0)
 ID-27  HexID-1B
 
 :::::::::::::::::::::: Possibly Empty Slots ::::::::::::::::::::
