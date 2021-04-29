@@ -1,0 +1,20 @@
+CSS Slot Config
+0x00 Tag ("CSSC")
+0x04 File Size (0x40)
+0x08 Version (2)
+0x0C Edit Flags
+
+0x10 *Primary Character (Slot)
+0x11 *Secondary Character (Slot)
+0x12 Record Slot
+0x13 *Cosmetic Slot
+0x14 Wiimote SFX
+0x18 Blank
+0x1C Status
+0x20 Slot Colors (0x20 bytes)
+
+Edit Flags:
+0x01: Set Primary Character, Secondary Character
+0x02: Set Cosmetic Slot
+
+* Not set unless specified in Edit Flags.

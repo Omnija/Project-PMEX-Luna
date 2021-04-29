@@ -1,0 +1,18 @@
+
+Slot Config0x00 Tag ("SLTC")
+0x04 File Size (0x40)
+0x08 Version (2)
+0x0C Edit Flags
+
+0x10 *Slot Characters (0x10 bytes)
+0x20 Victory Fanfare
+0x24 Record ID (0x1 byte)
+
+0x28 **Victory AnnouncerCall
+0x30 **Victory Camera Distances (0x10 bytes)
+
+Edit Flags:
+0x01: Set Slot Characters
+
+* Not set unless specified in Edit Flags.
+** Version 2 Only.

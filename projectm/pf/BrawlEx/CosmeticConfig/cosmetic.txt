@@ -1,0 +1,24 @@
+Cosmetic Config0x00 Tag ("COSC")
+0x04 File Size (0x40)
+0x08 Version (2)
+0x0C Edit Flags
+
+0x10 Cosmetic ID
+0x11 Unknown
+0x12 *Primary Character (Slot)
+0x13 *Secondary Character (Slot)
+0x14 Franchise
+0x15 Unknown3
+0x16 Unknown4
+0x17 Unknown5
+0x18 Announcer SFX
+0x1C Unknown6
+0x1D Unknown7
+0x1E Unknown8
+0x1F Unknown9
+0x20 Victory Name (0x20 chars)
+
+Edit Flags:
+0x01 Set Primary Character, Secondary Character
+
+* Not set unless specified in Edit Flags.

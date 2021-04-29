@@ -1,0 +1,26 @@
+Fighter Config
+0x00 Tag ("FITC" or "FCFG")
+0x04 File Size (0x100)
+0x08 Version (2)
+0x0C Edit Flags
+
+0x10 Entry .Pac Color Flag
+0x11 Result .Pac Color Flag
+0x12 KirbyCopy .Pac Color Flag
+0x13 Character Load Flags
+0x14 **Final .Pac Color Flag
+0x16 Color .Pac Flags
+0x18 Entry Article Flag
+0x1C Sound Bank
+0x20 Kirby Sound Bank
+0x30 .Pac Resource String (0x30 chars)
+0x60 KirbyCopy .Pac Resource String (0x30 chars)
+0x90 Module Resource String (0x20 chars)
+0xB0 Internal Name (0x10 chars)
+0xC0 IC-Constants
+0xF8 Texture Load Function (0, 1, 2, 3, 4, or 5)
+0xFC AI Controller (fighter Id)
+
+Edit Flags: None
+
+** Version 2 Only.
