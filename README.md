@@ -23,16 +23,21 @@ We also test it on both platform to assure that it does work as intended.
 * L-loading for some characters
 * Alt-z loading 
 * All alt forms should be working (Metal/invisible etc)
-* Extra maps
+* Added extra maps
+* Probably More
 
 ### What's Not Working
 * Voices and wii mote calls disabled
+* Final Smashes for Clones (Disable Smash Orb)
 * Netplay untested
 * Probably More
 
 ### What Needs Fixing
 * Victory themes
 * Add voices/call and sounds
+* Villager (Missing Franchise Mark)
+* More L-Loading Variations
+* Create more Z-Dark Forms
 * Probably more
 
 ### Maintained by
