@@ -6,6 +6,7 @@ Slot Config0x00 Tag ("SLTC")
 
 0x10 *Slot Characters (0x10 bytes)
 0x20 Victory Fanfare
+0x22 Victory Song
 0x24 Record ID (0x1 byte)
 
 0x28 **Victory AnnouncerCall
